@@ -1,6 +1,6 @@
 # FutureCloud-PlayerServiceManager
 
-FutureCloud-PlayerServiceManager is a module for the SimpleCloud API that monitors player activities on servers. It creates or updates services based on player names and sets the service status to INVISIBLE if the service has been inactive for 30 seconds.
+FutureCloud-PlayerServiceManager is a module for the FutureCloud API that monitors player activities on servers. It creates or updates services based on player names and sets the service status to INVISIBLE if the service has been inactive for 30 seconds.
 
 ## Features
 
@@ -11,7 +11,7 @@ FutureCloud-PlayerServiceManager is a module for the SimpleCloud API that monito
 
 ## Prerequisites
 
-- SimpleCloud API
+- FutureCloud API
 - Java 8 or higher
 - Kotlin
 
