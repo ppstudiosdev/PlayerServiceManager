@@ -20,4 +20,4 @@ FutureCloud-PlayerServiceManager is a module for the FutureCloud API that monito
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/YourUsername/SimpleCloud-PlayerServiceManager.git
+   git clone https://github.com/ppstudiosdev/PlayerServiceManager.git
